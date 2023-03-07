@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.herosectionfather{
+    background-color: #0a3f7d;
+    min-height: 50vh;
+}
+.navbarwrappermother{
+    display: flex;
+   align-items: center;
+    justify-content: space-around;
+   height: 80px;
+   color: white;
+}
+.chlid2{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 30px;
+}
+.chlid2 li a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none; 
+    display: flex  
+}
+.child3 {
+    color: red;
+    display : flex;
+
+}
+.navbat{
+  background-color: red;
+   border-radius: 25%;
+}
+.logo{
+    height: 150px;
+    width: 180px;
+}
+h1{
+    color: blue;
+}
+p{
+    color:black;
+    font-size: 24px;
+    margin-left: 0px;
+    margin-top: 30px;
+
+}
+img{
+    height: 450px;
+    width: 450;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+h1{
+    color: blue;
+    font-size: 64px;
+    margin-top: 0px;
+}
+input{
+    margin-left: 0px;
+    border-radius: 15%;
+    height: 30px;
+    width: 150px;
+    margin-top: 1%;
+}
+button{
+    height: 30px; 
+    border-radius: 15%;
+    color: green;}
